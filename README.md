@@ -57,9 +57,7 @@
 ## JavaScript
 - [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.  
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module  
-- [ping-stat](https://github.com/jufabeck2202/ping-stat) - Track downtimes of devices  
 - [training](https://github.com/cloud-annotations/training) - 🐝 Custom Object Detection and Classification Training  
-- [vs1lab-muster](https://github.com/zirpins/vs1lab-muster) - Musterlösungen für die Laborübung VS1  
 - [nuxt-express-example](https://github.com/ndabAP/nuxt-express-example) - Nuxt.js with Express.js example project  
 - [pl2mp3](https://github.com/jufabeck2202/pl2mp3) - 👀 Watches Youtube Playlists and automatically downloads & converts Videos to mp3  
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps  
